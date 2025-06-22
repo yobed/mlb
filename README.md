@@ -2,6 +2,7 @@
 
 * Look up if a line score has ever been done before
 
+* Cosine Similarity is just measuring the angle between two vectors, and those closer to 1 (meaning theta/angle is small) and close to eachother in magnitude and direction
 
 ## Example
 ```
