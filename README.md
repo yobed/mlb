@@ -35,5 +35,5 @@ date
 
 <img src="pics/heatmap.png" alt="Sentiment by Quarter" width="1000"/>
 
-> I was at the game (Away: 30 vs Home: 3) **bottom left*. See: https://www.espn.com/mlb/game/_/gameId/270822201/rangers-orioles
-
+* I was at the game (Away: 30 vs Home: 3) **bottom left* See: https://www.espn.com/mlb/game/_/gameId/270822201/rangers-orioles
+... **It was the worst home loss in history of MLB**. 
