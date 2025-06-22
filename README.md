@@ -31,3 +31,9 @@ date
 1934-06-17  CHN193406172     BSN      CHN  [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1]    0.907959      home
 2010-09-16  CLE201009160     ANA      CLE  [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1]    0.907959      home
 ```
+
+
+<img src="pics/heatmap.png" alt="Sentiment by Quarter" width="1000"/>
+
+> I was at the game (Away: 30 vs Home: 3) **bottom left*. See: https://www.espn.com/mlb/game/_/gameId/270822201/rangers-orioles
+
