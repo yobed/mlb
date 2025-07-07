@@ -1,3 +1,7 @@
+# Check out the website! [linescore.xyz](https://linescore.xyz/)
+
+
+
 # MLB Scores (vector search with a line score)
 
 * Look up if a line score has ever been done before
