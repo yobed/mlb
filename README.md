@@ -1,6 +1,10 @@
 # Check out the website! [linescore.xyz](https://linescore.xyz/)
 
 
+This was the python version to get the actual data.
+> Still have to incorporate live data & recent data. (Total data is all games up to 2024)
+
+
 
 # MLB Scores (vector search with a line score)
 
