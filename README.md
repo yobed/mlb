@@ -5,6 +5,9 @@ This was the python version to get the actual data.
 > Still have to incorporate live data & recent data. (Total data is all games up to 2024)
 
 
+---
+# Python Version (down below)
+
 
 # MLB Scores (vector search with a line score)
 
